@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 560.004 199.903"
+     width="560.004mm"
+     height="199.903mm"
+     data-sheet-width-mm="560.004"
+     data-columns="4"
+     data-gap-mm="2.0"
+     data-margin-mm="3.0"
+     data-sticker-width-mm="137.001"
+     data-sticker-height-mm="63.301"
+     data-artwork-width-mm="134.001"
+     data-artwork-height-mm="60.547"
+     data-cutline-color="#FF00FF"
+     data-cutline-stroke-pt="0.25">
+  <title>Colourwave sticker plate</title>
+  <rect class="artboard" x="0" y="0" width="560.004" height="199.903" fill="#000000"/>
+  <rect class="cutline" x="3.0" y="3.0" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="142.001" y="3.0" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="281.002" y="3.0" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="420.003" y="3.0" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="3.0" y="68.301" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="142.001" y="68.301" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="281.002" y="68.301" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="420.003" y="68.301" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="3.0" y="133.602" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="142.001" y="133.602" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="281.002" y="133.602" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+  <rect class="cutline" x="420.003" y="133.602" width="137.001" height="63.301" fill="none" stroke="#FF00FF" stroke-width="0.25"/>
+</svg>
